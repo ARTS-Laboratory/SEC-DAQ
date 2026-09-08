@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Mani_Custom") (type "KiCad") (uri "${KIPRJMOD}/Mani_Custom.pretty") (options "") (descr ""))
+	(lib (name "Downey") (type "KiCad") (uri "${KIPRJMOD}/Downey.pretty") (options "") (descr ""))
+)
