@@ -13510,7 +13510,7 @@
 		)
 		(uuid "a5b43bb1-690a-46f5-951d-9639e254313e")
 	)
-	(text "V0.3"
+	(text "V0.9.2"
 		(exclude_from_sim no)
 		(at 190.5 180.34 0)
 		(effects
@@ -15786,7 +15786,7 @@
 			(uuid "702f58f5-9fad-40f7-b2ad-257fe9a98f19")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "P1")
 					(unit 1)
@@ -15863,7 +15863,7 @@
 			(uuid "dbe9f1f7-8159-4b62-91a9-7a2b52dd5532")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R1")
 					(unit 1)
@@ -15937,7 +15937,7 @@
 			(uuid "b4a0335c-0e5b-4eab-a245-d16a4338be64")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR18")
 					(unit 1)
@@ -16014,7 +16014,7 @@
 			(uuid "fb168485-2615-4fe1-a989-f3e23d9e9c2f")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R2")
 					(unit 1)
@@ -16088,7 +16088,7 @@
 			(uuid "7b8709cb-0602-40c3-b4eb-f18c6a733051")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR16")
 					(unit 1)
@@ -16176,7 +16176,7 @@
 			(uuid "21c97e28-a59e-4afc-80fb-3e03554925f4")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "S_Range1")
 					(unit 1)
@@ -16253,7 +16253,7 @@
 			(uuid "5b9948d0-853d-479d-9b9d-72e5c46ab2e4")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R7")
 					(unit 1)
@@ -16330,7 +16330,7 @@
 			(uuid "28a29ef8-ce56-4c84-808c-a480af6b1a0e")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R8")
 					(unit 1)
@@ -16404,7 +16404,7 @@
 			(uuid "f6951462-7079-4e4e-8148-8369f2411f14")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR5")
 					(unit 1)
@@ -16492,7 +16492,7 @@
 			(uuid "7c628676-55d8-4dd2-9ece-320eb4d3cb60")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "S_Channel1")
 					(unit 1)
@@ -16580,7 +16580,7 @@
 			(uuid "b201ec6f-ec85-4d8a-b446-6ef4b6b0965a")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "S_Sample1")
 					(unit 1)
@@ -16657,7 +16657,7 @@
 			(uuid "171c1811-6140-488c-9123-86bdffced6d8")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R6")
 					(unit 1)
@@ -16734,7 +16734,7 @@
 			(uuid "c1c6e3ab-6dd9-4b99-8f6a-c17990e21f3d")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R5")
 					(unit 1)
@@ -16811,7 +16811,7 @@
 			(uuid "9dc533b5-2af8-4412-a586-b166c4eaadc9")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R4")
 					(unit 1)
@@ -16888,7 +16888,7 @@
 			(uuid "a12daa35-f4f3-46ee-a1bf-aa522287ebc7")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "R3")
 					(unit 1)
@@ -16962,7 +16962,7 @@
 			(uuid "63acb6d5-e15f-4ea1-863e-578a6ff1c657")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR6")
 					(unit 1)
@@ -17036,7 +17036,7 @@
 			(uuid "19f11c0c-183a-4abc-a423-9540ecfbafc6")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR3")
 					(unit 1)
@@ -17110,7 +17110,7 @@
 			(uuid "4f8b9132-c5df-4ef1-bf7b-4f36abfbd977")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR2")
 					(unit 1)
@@ -17184,7 +17184,7 @@
 			(uuid "8d8d1d39-3c4c-4837-ad5d-2cc69818cbe0")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR4")
 					(unit 1)
@@ -17262,7 +17262,7 @@
 			(uuid "c9aca5d8-1030-4c9a-bf31-8722d07a30ac")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "S_Ground1")
 					(unit 1)
@@ -17340,7 +17340,7 @@
 			(uuid "f6d9d5c4-0cf7-43ec-9849-652dcfcfd905")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "S_Trigger1")
 					(unit 1)
@@ -17441,7 +17441,7 @@
 			(uuid "aa037613-5cda-419f-afa0-732abff790c4")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "P3")
 					(unit 1)
@@ -17515,7 +17515,7 @@
 			(uuid "ff9b4287-4456-4402-828f-de4d364fe53b")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR15")
 					(unit 1)
@@ -17617,7 +17617,7 @@
 			(uuid "493e7e7a-d872-4261-a824-d29cc2311a3d")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "U2")
 					(unit 1)
@@ -17691,7 +17691,7 @@
 			(uuid "f830da04-0815-4dbe-87d4-5b0bd0ca5045")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR11")
 					(unit 1)
@@ -17765,7 +17765,7 @@
 			(uuid "235659d6-2d49-4d63-830e-17aac4a02c4d")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR10")
 					(unit 1)
@@ -17842,7 +17842,7 @@
 			(uuid "7aa24245-6b60-4adb-b225-1872d11361da")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "RI2C1")
 					(unit 1)
@@ -17919,7 +17919,7 @@
 			(uuid "dca6763a-e99f-4cb4-a6d1-afc71ea78c1b")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "RI2C2")
 					(unit 1)
@@ -17993,7 +17993,7 @@
 			(uuid "d5a8d645-bc49-4cfd-9e0f-0e04b72974da")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR12")
 					(unit 1)
@@ -18067,7 +18067,7 @@
 			(uuid "09e41626-07a1-4f1d-a5bc-df19b0456adc")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR14")
 					(unit 1)
@@ -18141,7 +18141,7 @@
 			(uuid "8ecc5f0f-a10b-491f-a528-6e421aac6af0")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR19")
 					(unit 1)
@@ -18218,7 +18218,7 @@
 			(uuid "57dfb045-d9a1-4b7e-8a60-f2e730ed8eaf")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "L1")
 					(unit 1)
@@ -18297,7 +18297,7 @@
 			(uuid "302a7322-48c7-4420-bb90-1df71894d5c7")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C3")
 					(unit 1)
@@ -18376,7 +18376,7 @@
 			(uuid "1d37864d-88a6-4442-9152-07e0eb23c063")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C5")
 					(unit 1)
@@ -18455,7 +18455,7 @@
 			(uuid "6c86a728-5b91-46a1-ab71-8db7a4c154c7")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C6")
 					(unit 1)
@@ -18534,7 +18534,7 @@
 			(uuid "b820785e-3e24-447c-a932-032b4d985bc3")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C7")
 					(unit 1)
@@ -18608,7 +18608,7 @@
 			(uuid "e99172d7-5abc-45e3-97ee-4f8acb417e0e")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR17")
 					(unit 1)
@@ -18682,7 +18682,7 @@
 			(uuid "dcae5eaf-1633-4da6-b405-68696d335918")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "P5")
 					(unit 1)
@@ -18756,7 +18756,7 @@
 			(uuid "d493fe98-8ef6-45a1-a971-237fbd9162dd")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "P4")
 					(unit 1)
@@ -18830,7 +18830,7 @@
 			(uuid "4a496a59-6af0-4f98-835a-211931da6a48")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR1")
 					(unit 1)
@@ -18909,7 +18909,7 @@
 			(uuid "6101d573-d7da-4a2b-a323-31a0a4c3419b")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C1")
 					(unit 1)
@@ -18988,7 +18988,7 @@
 			(uuid "3b371f02-b74d-4783-86af-f89296e2fcab")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C2")
 					(unit 1)
@@ -19067,7 +19067,7 @@
 			(uuid "cb3fc924-24b1-488a-822f-94d3b73a70dc")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "C4")
 					(unit 1)
@@ -19141,7 +19141,7 @@
 			(uuid "305356a0-6bdf-4ce0-9a8f-040ba96cdfc9")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR13")
 					(unit 1)
@@ -19228,7 +19228,7 @@
 			(uuid "cd7090ad-600b-400e-97f1-21ddde0c03f9")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "U1")
 					(unit 1)
@@ -19302,7 +19302,7 @@
 			(uuid "566eab35-2b31-4c57-b35f-268c4b050d96")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR9")
 					(unit 1)
@@ -19376,7 +19376,7 @@
 			(uuid "101dcf26-7efd-46ac-9900-848436c6e3c1")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#FLG3")
 					(unit 1)
@@ -19450,7 +19450,7 @@
 			(uuid "b962d7a8-f09c-4d1a-96e2-76fc4effd8e2")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#FLG2")
 					(unit 1)
@@ -19524,7 +19524,7 @@
 			(uuid "e885d39c-6d4b-4f95-bc85-029e5aec7627")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#FLG1")
 					(unit 1)
@@ -19598,7 +19598,7 @@
 			(uuid "effd1a41-eb0b-4dc3-b2ea-24c9a78f6d60")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR7")
 					(unit 1)
@@ -19672,7 +19672,7 @@
 			(uuid "f430c985-9f4f-4146-b8d9-072ddda199ed")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "#PWR8")
 					(unit 1)
@@ -19745,7 +19745,7 @@
 			(uuid "cf9c8315-ae68-468b-b1eb-7ae7a7cb8d3c")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "GND1")
 					(unit 1)
@@ -19865,7 +19865,7 @@
 			(uuid "9b72200a-60ad-4bd4-9b00-b2f22a301320")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "J1")
 					(unit 1)
@@ -19983,7 +19983,7 @@
 			(uuid "2cece366-d525-4291-aacf-67de13eb95b5")
 		)
 		(instances
-			(project "Shield_V0.3"
+			(project "Shield_v0.9.2"
 				(path "/5b3a0963-f29a-46c5-9178-369cd6a02136"
 					(reference "J2")
 					(unit 1)
